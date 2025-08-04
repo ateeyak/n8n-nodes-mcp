@@ -52,7 +52,7 @@
 	},
 	"dependencies": {
 		"@langchain/core": "^0.1.63",
-		"@modelcontextprotocol/sdk": "1.5.0",
+		"@modelcontextprotocol/sdk": "1.17.1",
 		"zod": "^3.0.0"
 	},
 	"peerDependencies": {
